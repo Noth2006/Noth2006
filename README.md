@@ -2,7 +2,7 @@
 
 ## Research Interests 
 
-Deep-generative models, Deep-learning, Machine-learning , Causal Inference , Gen-AI
+Deep-generative models, Deep-learning, Machine-learning , Gen-AI
 
 ## Contact 
 
