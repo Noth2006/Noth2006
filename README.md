@@ -2,7 +2,7 @@
 
 ## Research Interests 
 
-Deep-generative models, Deep-learning, Neuromorphic Vision , Machine-learning 
+Deep-generative models, Deep-learning, Neuromorphic Vision, Machine-learning 
 
 ## Contact 
 
