@@ -2,7 +2,7 @@
 
 ## Research Interests 
 
-Deep-generative models, Deep-learning, Neuromorphic computing , Machine-learning 
+Deep-learning, Neuromorphic computing , Machine-learning, Event Cameras
 
 ## Contact 
 
